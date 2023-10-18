@@ -1,0 +1,21 @@
+Currency,Unit,Buy,Sell
+usd (U.S. Dollar),1,132.92,133.52
+eur (European Euro),1,140.51,141.14
+gbp (UK Pound Sterling),1,161.87,162.60
+chf (Swiss Franc),1,147.67,148.34
+aud (Australian Dollar),1,84.52,84.91
+cad (Canadian Dollar),1,97.52,97.96
+sgd (Singapore Dollar),1,97.12,97.56
+jpy (Japanese Yen),10,8.89,8.93
+cny (Chinese Yuan),1,18.18,18.26
+sar (Saudi Arabian Riyal),1,35.44,35.60
+qar (Qatari Riyal),1,36.44,36.61
+thb (Thai Baht),1,3.65,3.67
+aed (UAE Dirham),1,36.19,36.35
+myr (Malaysian Ringgit),1,28.07,28.19
+krw (South Korean Won),100,9.83,9.87
+sek (Swedish Kroner),1,12.19,12.24
+dkk (Danish Kroner),1,18.83,18.92
+hkd (Hong Kong Dollar),1,16.99,17.07
+kwd (Kuwaity Dinar),1,429.72,431.66
+bhd (Bahrain Dinar),1,352.56,354.15
